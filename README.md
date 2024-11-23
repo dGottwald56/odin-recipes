@@ -1,0 +1,2 @@
+This repo was created to practice basic HTML knowledge learned in the Foundations course of The Odin Project. 
+It contains 3 recipes of which I frequently make and enjoy, in order to practice concepts such as images, relative paths, ordered and unordered lists, headers, and other such basic HTML elements. 
